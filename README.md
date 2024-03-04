@@ -50,5 +50,5 @@
 ### ⚙️ GitHub статистика:
 
 <div>
-  <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+  <img height="195px" align="center" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suyukee&layout=compact&theme=vision-friendly-dark" />
 </div>
