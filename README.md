@@ -4,10 +4,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. _Дополнить_
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-- :seedling: Завершил курсы по TypeScript
-
+<!-- - :seedling: Завершил курсы по TypeScript --> 
 ---
 
 ### 🤝 Социальные сети:
